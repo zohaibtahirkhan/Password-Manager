@@ -6,8 +6,8 @@ import json
 import requests
 import hashlib
 
-data_file = "D:\Zohaib Tahir\PyCharm Project\Password Manager\data.json"
-logo = "D:\Zohaib Tahir\PyCharm Project\Password Manager\logo.png"
+data_file = "D:\Password Manager\data.json" # Add json file location here if you want to change.
+logo = "logo.png" # Add the location of logo here.
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def password_generator():
